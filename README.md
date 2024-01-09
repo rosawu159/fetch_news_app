@@ -1,5 +1,7 @@
 
-# 📰 Generate summaries of news articles or blog posts using Google's language model Pegasus via 🤗 HuggingFace's API. 
+# 📰 Fetch News Summarizer
+
+### Generate summaries of news articles or blog posts using Google's language model Pegasus via 🤗 HuggingFace's API. 
 
 Pegasus is an encoder-decoder style transformer, specifically trained for abstractive summarization tasks. For this app I used the checkpoint: [google/pegasus-cnn_dailymail](https://huggingface.co/google/pegasus-cnn_dailymail), trained on the CNN-Dailymail corpus.
 
