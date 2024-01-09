@@ -11,7 +11,11 @@ Pegasus is an encoder-decoder style transformer, specifically trained for abstra
 streamlit run main.py
 ```
 
-You will need an API key from **HuggingFace**. In case don't have one already, follow these steps:
+Step1. Paste the URL of the article and click "Fetch article".
+
+Step2. Enter huggingface API and click "submit", everytime you paste the new article need to click both "Fetch article" and "submit" button.
+
+Also, you will need an API key from **HuggingFace**. In case don't have one already, follow these steps:
 - Create a [free account](https://huggingface.co/join) or [login](https://huggingface.co/login)
 - Go to **Settings** and then **Access Tokens**
 - Create a new Token (select 'read' role)
