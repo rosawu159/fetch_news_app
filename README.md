@@ -7,6 +7,10 @@ Pegasus is an encoder-decoder style transformer, specifically trained for abstra
 
 ## About this app
 
+```
+streamlit run main.py
+```
+
 You will need an API key from **HuggingFace**. In case don't have one already, follow these steps:
 - Create a [free account](https://huggingface.co/join) or [login](https://huggingface.co/login)
 - Go to **Settings** and then **Access Tokens**
