@@ -19,7 +19,7 @@ You will need an API key from **HuggingFace**. In case don't have one already, f
 
 
 
-![streamlit-main](https://github.com/ivnlee/streamlit-text-summarizer/assets/104610424/cbc3d780-2927-4466-9c9a-5ece1af2797d)
+![image](images/example.png)
 
 
 - - -
