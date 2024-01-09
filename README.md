@@ -1,17 +1,7 @@
 
-# 📰 FastNews Article Summarizer
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://article-summarizer-app.streamlit.app) 👈🏻 Give it a try!
-
-Read this project full article on my **Medium** blog --> [here](https://ivan-lee.medium.com/deploy-nlp-app-with-streamlit-and-hugging-face-453b90e58c5a?source=friends_link&sk=f02de750772f271abbaf3adffbbccba0) 
-
-
----
-### Generate summaries of news articles or blog posts using Google's language model Pegasus via 🤗 HuggingFace's API. 
+# 📰 Generate summaries of news articles or blog posts using Google's language model Pegasus via 🤗 HuggingFace's API. 
 
 Pegasus is an encoder-decoder style transformer, specifically trained for abstractive summarization tasks. For this app I used the checkpoint: [google/pegasus-cnn_dailymail](https://huggingface.co/google/pegasus-cnn_dailymail), trained on the CNN-Dailymail corpus.
-
-*For more information about the model, see the original paper [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/pdf/1912.08777.pdf) by Jingqing Zhang, Yao Zhao, Mohammad Saleh and Peter J. Liu, published on Dec 18, 2019.*
 
 ## About this app
 
