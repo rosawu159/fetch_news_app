@@ -12,7 +12,7 @@ with c1:
      st.image("images/newspaper.png", width=85)
 
 with c2:
-    st.title("FastNews Article Summarizer")
+    st.title("asadsfsfgsgfgfdghdfszFastNews Article Summarizer")
 
 st.markdown("**Generate summaries of articles and blog posts using abstractive summarization with Google's Pegasus language model.**")
 
